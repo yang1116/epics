@@ -1,0 +1,5 @@
+record(ai , "Hello World")
+{
+     field(DTYP, "hello")
+     field(SCAN, "2 second")
+}

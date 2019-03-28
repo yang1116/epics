@@ -1,0 +1,3 @@
+epicsEnvSet("IOC","iochello1")
+epicsEnvSet("TOP","/home/yangye16/IOC/helloworld1")
+epicsEnvSet("EPICS_BASE","/home/yangye16/epics-base")
